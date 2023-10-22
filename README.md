@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&size=25&duration=3000&pause=300&color=2BE8F7&center=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B;This+is+Prathamesh;Welcome+to+My+World!)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&size=25&duration=3000&pause=300&color=2BE8F7&center=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B;This+is+Prathamesh;Welcome+to+My+World!" alt="Typing SVG" /></a>
+</p>
 
 
 # 💫 About Me:
