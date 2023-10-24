@@ -1,33 +1,27 @@
-<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&size=25&duration=2500&pause=300&color=2BE8F7&center=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B;This+is+Prathamesh;Welcome+to+My+World!" alt="Typing SVG" /></a>
 </p>
 
 
-## <p style="color:#ffb31a">🧑‍💻 About Me:</p>
+## 🧑‍💻 About Me:
 
 <div>
     <img style="filter: hue-rotate(-40deg);" src="./programmer.gif"/>
 </div>
+<br>
 
-### Hello, I'm <span style="color:#87ceeb; font-weight:bold;font-size:18px;">Prathamesh Dhavale!</span> 🚀
+Hello, I'm <span style="color:#87ceeb; font-weight:bold;font-size:18px;">Prathamesh Dhavale!</span> 🚀
 
-<div style="font-size:15px;">
 I'm a student pursuing a B.Tech in CSBS at JSPM's RSCOE. My passion for technology and problem-solving led me to develop this project. Here's a bit more about me:
 
-<br>
-
-- 💡 I'm enthusiastic about <span style="font-weight:700;"> web development, coding, and data structures and algorithms (DSA)</span>.
+- 💡 I'm enthusiastic about web development, coding, and data structures and algorithms (DSA).
 - 🌱 I love to learn and explore new technologies, particularly in the field of web development.
 - 📚 Currently, I'm focused on honing my skills in full-stack web development and enhancing my understanding of DSA.
-- 🎯 My goal is to <span style="font-weight:700;">contribute to innovative projects</span> in the technology sector and continue expanding my knowledge in both web development and DSA.
+- 🎯 My goal is to contribute to innovative projects in the technology sector and continue expanding my knowledge in both web development and DSA.
 
-<br>
+Feel free to connect with me; I'm always open to collaboration and new opportunities!
 
-Feel free to connect with me; I'm always <span style="font-weight:700;">open to collaboration</span> and new opportunities!
-</div>
-
-## <p style="color:#ffb31a">🌐 Socials:</p>
+## 🌐 Socials:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dprathamesh/)
@@ -37,7 +31,7 @@ Feel free to connect with me; I'm always <span style="font-weight:700;">open to 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-cpu&color=orange) -->
 
 
-## <p style="color:#ffb31a">🔥 My Stats :</p>
+## 🔥 My Stats :
 
 <!-- ![prathmesh-cpu's Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-cpu&theme=slateorange&show_icons=true&bg_color=000000) -->
 
@@ -45,7 +39,7 @@ Feel free to connect with me; I'm always <span style="font-weight:700;">open to 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-cpu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## <p style="color:#ffb31a">💻 Tech Stack:</p>
+## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
