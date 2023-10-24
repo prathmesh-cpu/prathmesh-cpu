@@ -10,7 +10,7 @@
 </div>
 <br>
 
-Hello, I'm <span style="color:#87ceeb; font-weight:bold;font-size:18px;">Prathamesh Dhavale!</span> 🚀
+Hello, I'm Prathamesh Dhavale! 🚀
 
 I'm a student pursuing a B.Tech in CSBS at JSPM's RSCOE. My passion for technology and problem-solving led me to develop this project. Here's a bit more about me:
 
