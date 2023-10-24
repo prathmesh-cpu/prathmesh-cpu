@@ -5,10 +5,7 @@
 
 ## 🧑‍💻 About Me:
 
-<div>
-    <img style="filter: hue-rotate(-40deg);" src="./programmer.gif"/>
-</div>
-<br>
+![programmer](https://github.com/prathmesh-cpu/prathmesh-cpu/assets/56761941/425ff4b3-cf13-4bd7-b32c-68ac63f64ec7)
 
 Hello, I'm Prathamesh Dhavale! 🚀
 
