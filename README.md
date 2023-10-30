@@ -30,7 +30,7 @@ Feel free to connect with me; I'm always open to collaboration and new opportuni
 
 ## 🔥 My Stats :
 
-<!-- ![prathmesh-cpu's Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-cpu&theme=slateorange&show_icons=true&bg_color=000000) -->
+![prathmesh-cpu's Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-cpu&theme=slateorange&show_icons=true&bg_color=000000)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-cpu&theme=dark&background=000000)]()
 
